@@ -124,7 +124,7 @@ https://commerce-flow.com/
 
 ### 副業
 
-- ソフトウェア受託開発
+- ソフトウェア受託開発（約1年）
   - 担当：実装
   - 使用技術： Rails, Laravel, PostgreSQL, JavaScript
   - バックエンドの実装を主に行う
